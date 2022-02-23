@@ -18,7 +18,7 @@ This is a backend project intended to used at platforms where polling/voting typ
 
 # Important Link:
 
-- Hosting Link: https://qustion-polling-api.herokuapp.com/
+<!--  -->
 
 # Tech Stack:
 - NodeJS
